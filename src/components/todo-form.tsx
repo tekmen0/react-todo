@@ -30,8 +30,6 @@ const ToDoForm = (props: TodoFormProps) => {
 			};
 			props.handleTodoCreate(newTodo);
 
-			console.log('enter handling is working');
-
 			if (inputRef && inputRef.current != null) {
 				inputRef.current.value = '';
 			}
