@@ -1,6 +1,8 @@
 ### Simple React Todo app with next.js
 
-### To run:
+### To run in bash:
 
-    $ npm install
-    $ npm run dev
+    git clone https://github.com/tekmen0/react-todo.git
+    cd react-todo
+    npm install
+    npm run dev
